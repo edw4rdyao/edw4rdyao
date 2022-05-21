@@ -1,6 +1,6 @@
 ## 💤Happy Every Day!
 
-[![Edward Yao's github stats](https://github-readme-stats.vercel.app/api?username=Yaozhtj&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![Edward Yao's github stats](https://github-readme-stats.vercel.app/api?username=Yaozhtj&theme=vue-dark)
 
 ```
     __              __              _      __                 __
